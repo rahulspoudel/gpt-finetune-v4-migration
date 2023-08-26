@@ -1,4 +1,4 @@
-### GPT Finetune
+### GPT Finetuning with Custom Data using Node.js
 
 - Ref. https://nader.substack.com/p/supercharge-your-gpt-model-custom by Nader Dabit
 - Updated for sdk v4
